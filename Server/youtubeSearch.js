@@ -1,5 +1,3 @@
-// https://www.googleapis.com/youtube/v3/search?key=AIzaSyDrRaGlnqZCnQLtfUN03_USNLhdqALpAiA&q=reactjs&part=snippet&type=video
-
 const axios = require("axios");
 require("dotenv").config();
 const API_KEY = process.env.GOOGLE_CONSOLE_API_KEY;
